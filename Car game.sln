@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car game.Plugins", "Car game.Plugins.csproj", "{A55E2A1F-F0B0-911D-0C99-C734BD9BD3C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car game", "Car game.csproj", "{FD0A8299-A4B5-A99E-97A8-8472EF7B4CBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car game.Editor.Plugins", "Car game.Editor.Plugins.csproj", "{C6CAA7A2-14AF-550A-374B-731BDBAF739E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A55E2A1F-F0B0-911D-0C99-C734BD9BD3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55E2A1F-F0B0-911D-0C99-C734BD9BD3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55E2A1F-F0B0-911D-0C99-C734BD9BD3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55E2A1F-F0B0-911D-0C99-C734BD9BD3C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD0A8299-A4B5-A99E-97A8-8472EF7B4CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0A8299-A4B5-A99E-97A8-8472EF7B4CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0A8299-A4B5-A99E-97A8-8472EF7B4CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0A8299-A4B5-A99E-97A8-8472EF7B4CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6CAA7A2-14AF-550A-374B-731BDBAF739E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CAA7A2-14AF-550A-374B-731BDBAF739E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CAA7A2-14AF-550A-374B-731BDBAF739E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CAA7A2-14AF-550A-374B-731BDBAF739E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
